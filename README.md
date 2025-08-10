@@ -1,5 +1,4 @@
 # 📝 To-Do List App
-## 🚀 Live Demo
 [Click here to view the app](https://saira-code.github.io/to-do-app/)
 
 A simple and stylish To-Do List application built with HTML, CSS, and JavaScript.  
